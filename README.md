@@ -16,7 +16,7 @@
 - 🔭 **Currently building:** [Visitor Management System](https://github.com/ThisaraJayasooriya/UoM-VMS-frontend.git)
 - 🌱 **Learning:** Advanced React patterns, Cloud Architecture
 - 👯 **Looking to collaborate on:** Open source projects
-- 📝 **Writing on:** [Medium](https://medium.com/@thisaradj0726)
+- 📝 **Writing on:** [Medium](https://medium.com/@thisarajayasooriya)
 - 📫 **Reach me:** thisarajayasooriya07@gmail.com
 - ⚡ **Fun fact:** I debug with console.log() and I'm not ashamed!
 
@@ -30,7 +30,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/thisara-jayasooriya/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://web.facebook.com/thisara.dilshan.140)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E)](https://medium.com/@thisaradj0726)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E)](https://medium.com/@thisarajayasooriya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://www.leetcode.com/thisarajayasooriya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:thisarajayasooriya07@gmail.com)
 
