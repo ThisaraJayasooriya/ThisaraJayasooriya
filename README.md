@@ -4,14 +4,14 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=70&lines=UOM+Undergraduate+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Logic+Seeker+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="650" height="150"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="650" height="160"/>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 **Currently building:** [Visitor Management System](https://github.com/ThisaraJayasooriya/UoM-VMS-frontend.git)
 - 🌱 **Learning:** Advanced React patterns, Cloud Architecture
