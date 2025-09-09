@@ -89,7 +89,7 @@
 ```javascript
 const thisara = {
     currentlyLearning: ["Advanced React Patterns", "Cloud Architecture", "System Design"],
-    workingOn: "Visitor Management System",
+    workingOn: "EduShare",
     funFact: "I can debug faster with rubber duck debugging! 🦆"
 };
 ```
