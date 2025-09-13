@@ -88,7 +88,7 @@
 
 ```javascript
 const thisara = {
-    currentlyLearning: ["Advanced React Patterns", "Cloud Architecture", "System Design"],
+    currentlyLearning: ["Spring boot", "Cloud Architecture", "System Design"],
     workingOn: "EduShare",
     funFact: "I can debug faster with rubber duck debugging! 🦆"
 };
