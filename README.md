@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,tailwind,bootstrap,spring,php,nextjs" alt="Frontend & Backend" /><br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,html,css,tailwind,bootstrap,spring,php,nextjs" alt="Frontend & Backend" /><br>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases & Cloud" /><br>
 <img src="https://skillicons.dev/icons?i=git,postman,figma,arduino,vscode,idea" alt="Tools & Others" /><br>
 <img src="https://skillicons.dev/icons?i=java,c,python" alt="Languages" />
